@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageControlCalculation", "PageControlCalculation\PageControlCalculation.csproj", "{086B0E59-628D-49BC-A0D7-20193423389B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoConsole", "DemoConsole\DemoConsole.csproj", "{C6E9E118-7D05-48F4-A239-45925DC2AC53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{086B0E59-628D-49BC-A0D7-20193423389B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{086B0E59-628D-49BC-A0D7-20193423389B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{086B0E59-628D-49BC-A0D7-20193423389B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{086B0E59-628D-49BC-A0D7-20193423389B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6E9E118-7D05-48F4-A239-45925DC2AC53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6E9E118-7D05-48F4-A239-45925DC2AC53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6E9E118-7D05-48F4-A239-45925DC2AC53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6E9E118-7D05-48F4-A239-45925DC2AC53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D259AD7-54DA-48F0-A75D-231E4DA93293}
+	EndGlobalSection
+EndGlobal
